@@ -1,0 +1,6 @@
+{
+  "name": "Heartbeat - Our Love Counter",
+  "description": "A private, elegant relationship day counter celebrating every second together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

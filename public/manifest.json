@@ -1,0 +1,17 @@
+{
+  "short_name": "Heartbeat",
+  "name": "Heartbeat - Our Love Counter",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 192x192 any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#050811",
+  "theme_color": "#060913",
+  "display": "standalone",
+  "orientation": "portrait"
+}
